@@ -59,6 +59,12 @@
 - Encourage flexible work arrangements to enhance satisfaction.
 - Explore targeted retention strategies for Life Science and Medical graduates.
 
+## 📁 Dataset Information
+- Dataset Name: HR_Analytics.csv
+- Rows: 1471
+- Source: HR_Analytics DataSet from >>>      
+#### Power BI Project End to End | Dashboard | Beginners | Complete Project - 2023 (Rishabh Mishra)
+
 ## 📂 Project Structure
 - HR_Attrition_Dashboard/
 - │
