@@ -6,6 +6,9 @@
   using pivot tables, charts, and slicers to identify key factors
   driving employee turnover such as age, department, salary, job satisfaction, work-life balance, commute distance, and overtime.
 
+  <img width="1860" height="855" alt="image" src="https://github.com/user-attachments/assets/4c12e2b0-4301-48fc-bc13-c5e489d87c57" />
+
+
 ## 🧰 Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts for aggregation and dynamic visuals
